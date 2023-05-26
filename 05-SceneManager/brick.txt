@@ -1,0 +1,17 @@
+# id	left	top	right	bottom	texture_id
+[SPRITES]
+#Platform's brick
+20001	372	153	387	168	20
+20002	460	154	475	169	30
+20003	443	154	458	169	30
+20004	477	154	492	169	30
+20005	443	171	458	186	30
+20006	460	171	475 	186	30
+20007	477	171	492	186	30
+
+#Question mark brick
+20008	1140	1	1155	16	30
+
+# ani_id	sprite1_id	time1	sprite2_id	time2	...
+[ANIMATIONS]
+10000	20001	1000
